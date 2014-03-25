@@ -38,6 +38,8 @@ import com.android.ex.chips.BaseRecipientAdapter.DirectoryListQuery;
 import com.android.ex.chips.BaseRecipientAdapter.DirectorySearchParams;
 import com.android.ex.chips.Queries.Query;
 
+import org.thialfihar.android.apg.R;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;

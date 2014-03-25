@@ -88,6 +88,8 @@ import com.android.ex.chips.recipientchip.DrawableRecipientChip;
 import com.android.ex.chips.recipientchip.InvisibleRecipientChip;
 import com.android.ex.chips.recipientchip.VisibleRecipientChip;
 
+import org.thialfihar.android.apg.R;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
